@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Oscar Forner's personal website
-locale:           en_GB
-url:              https://maitesin.github.io/
+title:            Ravi Agrawal's personal website
+locale:           en_US
+url:              https://ravi-ag.github.io/
 
 
 
@@ -42,23 +42,12 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Oscar Forner Martinez
+  name: Ravi Agrawal
   avatar: avatar.jpg
-  bio: "I am software engineer at VCA Technology. Learning Linux Kernel, passionate about GNU/Linux and OSS, enjoying algorithms and data structures and coding in C and C++."
-  email: oscar.forner.martinez@gmail.com
-  disqus-shortname: maitesin.disqus.com
-  twitter: oscar_forner
+  bio: "Sr Software engineer at Blackmagic Design Technology. Learning design and architect software solutions, enjoying algorithms and data structures in c and c++."
+  email: ragrawal.raipur@gmail.com
   facebook: #username
-  google:
-    plus: ÒscarFornerMartínez
-    analytics: UA-71699232-1
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: maitesin
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: oscarforner
+  github: ravi-ag
   xing: #username
   instagram: #username
   lastfm: #username
@@ -75,5 +64,3 @@ owner:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
-
-theme: jekyll-theme-minimal
